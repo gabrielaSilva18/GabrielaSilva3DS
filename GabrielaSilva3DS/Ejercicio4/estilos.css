@@ -1,0 +1,11 @@
+﻿body
+{
+    background-color: blanchedalmond;
+}
+
+p {
+    font-family: 'Tahoma';
+    font-size: 24px;
+    font-style: bold;
+    text-align: center;
+}
